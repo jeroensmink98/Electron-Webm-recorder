@@ -4,7 +4,7 @@ A simple webm screen recorder that lets you record any window on your desktop an
 This project was made to learn something more about Electron and building desktop applications.
 ## Getting Started
 
-In the out folder you will find a .exe you can run on your Windows machine to start the application
+If you want to build a version for you machine platform, clone the repo and run `npm run make` and Electron will detect on what platform you are and will build a runnable version for that.
 
 
 ## Authors

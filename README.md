@@ -1,6 +1,6 @@
 # Webm Screen Recorder
 
-A simple webm screen recorder that lets you record any window on your desktop and save it as a webm
+An easy to use webm screen recorder that lets you record any window on your desktop and save it as a webm
 This project was made to learn something more about Electron and building desktop applications.
 ## Getting Started
 
